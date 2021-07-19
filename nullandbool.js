@@ -5,7 +5,7 @@ if(marks <=10 && marks> 5)
 }
 else if(marks<=5 && marks>3)
 {
-    console.log('WORK harder')
+    console.log(' harder')
 }
 else
 {
